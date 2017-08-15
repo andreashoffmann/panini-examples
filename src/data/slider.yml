@@ -1,0 +1,13 @@
+main:
+  -
+    image:    'http://placehold.it/2000x750'
+    isActive:  true
+  -
+    image:    'http://placehold.it/2000x750'
+    isActive:  false
+  -
+    image:    'http://placehold.it/2000x750'
+    isActive:  false
+  -
+    image:    'http://placehold.it/2000x750'
+    isActive:  false

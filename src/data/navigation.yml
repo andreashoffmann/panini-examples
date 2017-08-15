@@ -1,0 +1,10 @@
+main:
+  -
+    title:  'Start'
+    link:   '#'
+  -
+    title:  'About'
+    link:   '#'
+  -
+    title:  'Contact'
+    link:   '#'
